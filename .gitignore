@@ -3,3 +3,5 @@
 users.txt
 .vscode/
 "@ | Set-Content .gitignore
+*.exe
+users.txt
